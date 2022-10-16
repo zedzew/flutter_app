@@ -17,5 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ##Git chapter 2
 git status 2
-chance 3
-home
+chance 2 
